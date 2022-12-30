@@ -4,7 +4,11 @@ I am kavita from India . I am a self-taught Web and Python developer with a keen
 
 ### My Tech Stack 
 ### Languages
-HTML CSS Javascript NodeJs Python
+HTML 
+CSS 
+Javascript 
+NodeJs 
+Python
 
 
 <!--
