@@ -7,8 +7,6 @@ I am kavita from India . I am a self-taught Web and Python developer with a keen
 
 ### My Tech Stack 
 ### Languages  
-![image](https://user-images.githubusercontent.com/69758286/210076458-558cfb39-12ba-42ca-80f4-33e5b6af372b.png)
-
 HTML 
 CSS 
 Javascript 
