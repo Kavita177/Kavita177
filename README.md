@@ -1,5 +1,10 @@
 ### Hi, I'm kavita 👋 👨‍💻
 
+I am kavita from India . I am a self-taught Web and Python developer with a keen interest in Web development and Software development. I'm a programmer who prefer enjoying the work instead of doing it.
+
+### My Tech Stack 
+
+
 <!--
 **Kavita177/Kavita177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
