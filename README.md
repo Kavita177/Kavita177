@@ -3,7 +3,7 @@
 I am kavita from India . I am a self-taught Web and Python developer with a keen interest in Web development and Software development. I'm a programmer who prefer enjoying the work instead of doing it.
 
 ### My Tech Stack 
-Languages
+### Languages
 HTML CSS Javascript NodeJs Python
 
 
