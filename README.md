@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/69758286/210074914-9c29d8c4-cea8-4c68-9acf-d50862492494.png)
+
+
 ### Hi, I'm kavita 👋 👨‍💻
 
 I am kavita from India . I am a self-taught Web and Python developer with a keen interest in Web development and Software development. I'm a programmer who prefer enjoying the work instead of doing it.
